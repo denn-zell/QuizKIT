@@ -17,3 +17,10 @@ An interactive, MVC-structured desktop trivia quiz application built with Java S
 1. Clone this repository or download the source code.
 2. Ensure the `opentdb4j.jar` inside the `lib` folder is added to your project's build path in your IDE.
 3. Run the `QuizKitMain.java` class to start the application.
+
+## Screenshots
+
+<p float="left">
+  <img src="assets/menu.png" width="48%" alt="QuizKIT Menu" />
+  <img src="assets/question.png" width="48%" alt="QuizKIT Question View" />
+</p>
